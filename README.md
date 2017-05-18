@@ -24,11 +24,11 @@
 
 ### a. `export`
 Displays all environment variables. If you want to get details of a specific variable, use `echo $VARIABLE_NAME`.  
-```bash
+```sh
 export
 ```
 Example:
-```bash
+```sh
 $ export
 AWS_HOME=/Users/adnanadnan/.aws
 LANG=en_US.UTF-8
@@ -1172,13 +1172,12 @@ bash -x scriptname
 
 ## Contribution
 
-- Report issues [How to](https://help.github.com/articles/creating-an-issue/)
-- Open pull request with improvements [How to](https://help.github.com/articles/about-pull-requests/)
-- Spread the word
+- Report issues : [telegram](https://t.me/duyhenryer)
 
 ## Translation
-- [Turkish | Türkçe](https://github.com/omergulen/bash-guide)
+- [duyhenry](https://github.com/duyhenryer/bash-command)
 
 ## License
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+```sh
+License: CC BY 1.1
+```
